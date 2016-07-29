@@ -1,0 +1,95 @@
+{
+ "sections": [
+  {
+   "id": "d32518ba-9c68-53db-fe45-1e2020ab5b5f",
+   "title": "Introduction",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Introduction-d325.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "08d43108-eb57-aeab-6921-fd2b7fbd07b0",
+   "title": "Star topology",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Star-topology-08d4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "cf4db999-a233-82ab-160e-317c98b943bd",
+   "title": "Mesh topology",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Mesh-topology-cf4d.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "8a0c4d8a-6829-cfd6-8c1c-6dddeedb56ed",
+   "title": "Transmission of data across a LAN",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Transmission-of-data-across-a-LAN-8a0c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "24a3c6e5-5842-1761-b6fd-bbe28983d4f4",
+   "title": "Ethernet",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ethernet-24a3.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3faec185-5f9e-8e80-a515-a60770a78914",
+   "title": "W-Fi",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/W-Fi-3fae.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a6abe75d-41c8-1229-d6c3-035f8ead6a95",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-a6ab.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "691ebe7a-8d1d-a271-cda3-2e3fe7f4a2ce",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-691e.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

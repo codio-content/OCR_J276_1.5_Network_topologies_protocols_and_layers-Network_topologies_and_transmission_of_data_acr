@@ -1,0 +1,120 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-34967203",
+  "source": {
+   "name": "Question 1:",
+   "showName": true,
+   "instructions": "Select the correct answer from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "Network <<<topology>>> describes how the network devices are arranged and <<<connected>>> together.",
+   "tokens": {
+    "blank": [
+     "topology",
+     "connected"
+    ],
+    "text": [
+     "Network ",
+     0,
+     " describes how the network devices are arranged and ",
+     0,
+     " together."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3251084162",
+  "source": {
+   "name": "Question 2:",
+   "showName": true,
+   "instructions": "Select the correct answer from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "In a <<<star>>> topology each computer is connected individually to a central point and therefore the data <<<packets>>> can be directed to the correct recipient without having to pass along the whole network. This reduces network <<<traffic>>> and improves network <<<efficiency>>>.",
+   "tokens": {
+    "blank": [
+     "star",
+     "packets",
+     "traffic",
+     "efficiency"
+    ],
+    "text": [
+     "In a ",
+     0,
+     " topology each computer is connected individually to a central point and therefore the data ",
+     0,
+     " can be directed to the correct recipient without having to pass along the whole network. This reduces network ",
+     0,
+     " and improves network ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4195464654",
+  "source": {
+   "name": "Question 3: ",
+   "showName": true,
+   "instructions": "Select the correct answer from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "In a <<<mesh>>> network each node is connected to all of the others. A data packet can therefore reach the intended device along different <<<routes>>>.\nEach device on a network has a <<<unique>>> address called its <<<MAC>>> address so that data can be delivered to the correct device on a <<<LAN>>>. ",
+   "tokens": {
+    "blank": [
+     "mesh",
+     "routes",
+     "unique",
+     "MAC",
+     "LAN"
+    ],
+    "text": [
+     "In a ",
+     0,
+     " network each node is connected to all of the others. A data packet can therefore reach the intended device along different ",
+     0,
+     ".\nEach device on a network has a ",
+     0,
+     " address called its ",
+     0,
+     " address so that data can be delivered to the correct device on a ",
+     0,
+     ". "
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1091968399",
+  "source": {
+   "name": "Question 4: ",
+   "showName": true,
+   "instructions": "Select the correct answer from the available list",
+   "points": "1",
+   "showValues": true,
+   "text": "The technology and data transmission rules for <<<protocols>>> for wired networks are contained in the <<<Ethernet>>> standard whilst that used most for wireless networks <<<Wi-Fi>>>.",
+   "tokens": {
+    "blank": [
+     "protocols",
+     "Ethernet",
+     "Wi-Fi"
+    ],
+    "text": [
+     "The technology and data transmission rules for ",
+     0,
+     " for wired networks are contained in the ",
+     0,
+     " standard whilst that used most for wireless networks ",
+     0,
+     "."
+    ]
+   }
+  }
+ }
+]
