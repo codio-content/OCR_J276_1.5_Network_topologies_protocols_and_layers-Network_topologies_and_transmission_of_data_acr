@@ -1,4 +1,4 @@
-In a mesh network the nodes are connected to each other.
+In a mesh network all the nodes are connected to each other.
 If it is a **full mesh network** then each node is connected to all of the others but in a partial mesh network they are connected to only those with which they exchange the most data.
 
 **A full mesh topology**
